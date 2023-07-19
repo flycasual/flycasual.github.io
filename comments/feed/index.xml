@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Fly Casual	</title>
-	<atom:link href="httpflycasual.github.io//comments/feed/" rel="self" type="application/rss+xml" />
-	<link>httpflycasual.github.io/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>80’s &#38; 90’s &#38; 2000’s band in La Crosse</description>
 	<lastBuildDate>Wed, 19 Jul 2023 03:00:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

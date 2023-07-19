@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Fly Casual</title>
-	<atom:link href="httpflycasual.github.io//feed/" rel="self" type="application/rss+xml" />
-	<link>httpflycasual.github.io/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>80’s &#38; 90’s &#38; 2000’s band in La Crosse</description>
 	<lastBuildDate>Wed, 19 Jul 2023 03:00:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>httpflycasual.github.io//wp-content/uploads/2023/07/cropped-fly-casual-plane-only-square-32x32.png</url>
+	<url>/wp-content/uploads/2023/07/cropped-fly-casual-plane-only-square-32x32.png</url>
 	<title>Fly Casual</title>
-	<link>httpflycasual.github.io/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
